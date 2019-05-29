@@ -2,7 +2,6 @@ package com.ejercicio.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-//import java.util.List;
 import java.util.Set;
 
 import javax.persistence.Column;
